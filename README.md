@@ -22,6 +22,6 @@ Install dependencies / npm run dev
   - Google Oauth 2.0
   - Passport-http-bearer
   - Less
-  - React-dnd
+  - React-drag-and-drop
   - React-progressbar
   - React-router
